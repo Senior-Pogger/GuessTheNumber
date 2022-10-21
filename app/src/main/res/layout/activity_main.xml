@@ -169,9 +169,9 @@
         android:layout_marginEnd="94dp"
         android:layout_marginBottom="530dp"
         android:ems="10"
+        android:hint="first name"
         android:inputType="textPersonName"
-        android:minHeight="48dp"
-        android:text="first name" />
+        android:minHeight="48dp" />
 
     <EditText
         android:id="@+id/etLname"
@@ -182,9 +182,9 @@
         android:layout_marginEnd="92dp"
         android:layout_marginBottom="409dp"
         android:ems="10"
+        android:hint="last name"
         android:inputType="textPersonName"
-        android:minHeight="48dp"
-        android:text="last name" />
+        android:minHeight="48dp" />
 
     <TextView
         android:id="@+id/textView4"
